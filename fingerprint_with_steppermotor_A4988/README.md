@@ -1,22 +1,22 @@
 # Connection with arduino
 
-Motor Nema17 38.3x38.3x20__ 
+Motor Nema17 38.3x38.3x20   
 
 ## Motor A4988 controller pins
-ENABLE    => D13__
-DIRECTION => D4__
-STEP      => D5__
-GND       => EXT ALIM__
-VMOT      => EXT ALIM__
-SLEEP     => RESET__
-1B        => BLACK__
-1A        => GREEN__
-2A        => BLUE__
-2B        => RED__
+ENABLE    => D13  
+DIRECTION => D4  
+STEP      => D5  
+GND       => EXT ALIM  
+VMOT      => EXT ALIM  
+SLEEP     => RESET  
+1B        => BLACK  
+1A        => GREEN  
+2A        => BLUE  
+2B        => RED  
 
 ## Fingerprint sensor R503
-white  => 3.3V__
-red    => 3.3V__
-yellow => D2__
-brown  => D3__
-black  => GND__
+white  => 3.3V  
+red    => 3.3V  
+yellow => D2  
+brown  => D3  
+black  => GND  
