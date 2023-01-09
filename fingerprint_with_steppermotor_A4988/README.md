@@ -9,10 +9,10 @@ STEP      => D5
 GND       => EXT ALIM  
 VMOT      => EXT ALIM  
 SLEEP     => RESET  
-1B        => BLACK  
-1A        => GREEN  
-2A        => BLUE  
-2B        => RED  
+1B        => BLACK (D)  
+1A        => GREEN (C)  
+2A        => BLUE (B)  
+2B        => RED (A)  
 
 ## Fingerprint sensor R503
 white  => 3.3V  
