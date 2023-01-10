@@ -1,6 +1,11 @@
-# Connection with arduino
+## Parts
 
-Motor Nema17 38.3x38.3x20   
+Arduino nano  
+Stepper motor Nema17 38.3x38.3x20   
+Stepper controller A4988
+Ball bearing 6707 ZZ 35x44x5mm
+
+# Connection with arduino
 
 ## Motor A4988 controller pins
 ENABLE    => D13  
